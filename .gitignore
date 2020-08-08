@@ -1,0 +1,16 @@
+Solution_API/.vs/
+Solution_API/Solution.API/bin/
+Solution_API/Solution.API/obj/
+Solution_API/Solution.BS/bin/
+Solution_API/Solution.BS/obj/
+Solution_API/Solution.DAL.EF/bin/
+Solution_API/Solution.DAL.EF/obj/
+Solution_API/Solution.DAL/bin/
+Solution_API/Solution.DAL/obj/
+Solution_API/Solution.DO/obj/
+Solution_API/Solution.DO/bin/
+Solution_API/Solution.Repository/bin/
+Solution_API/Solution.Repository/obj/
+SolutionAPIWizzardNetCore/.vs/
+SolutionAPIWizzardNetCore/Solution.APIW/bin/
+SolutionAPIWizzardNetCore/Solution.APIW/obj/
